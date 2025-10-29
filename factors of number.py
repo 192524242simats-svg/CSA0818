@@ -1,3 +1,4 @@
+#Factors of nmber
 x=int(input("Enter a number:"))
 y=[]
 print("The factors of",x,"are:")
@@ -13,3 +14,4 @@ else:
     print("First",n,"factors:")
     for k in range(0,n):
         print(y[k],end=" ")
+
